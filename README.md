@@ -1,4 +1,4 @@
-I like coding stuff, but I never finish 30% of my projects :(
+I like coding stuff.
 
 Currently learning Forge modding
 
